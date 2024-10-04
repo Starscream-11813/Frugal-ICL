@@ -1,0 +1,6 @@
+[submodule "global_token_attribution"]
+	path = global_token_attribution
+	url = https://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@github.com/abdalimran/global-token-attribution.git
+[submodule "global_token_attribution2"]
+	path = global_token_attribution2
+	url = https://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@github.com/abdalimran/global-token-attribution.git
