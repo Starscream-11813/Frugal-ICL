@@ -1,5 +1,5 @@
-# Frugal-ICL
-This repository contains the code and data of the paper titled **"FrugalPrompt: Reducing Contextual Overhead in Large Language Models via Token Attribution."**
+# FʀᴜɢᴀʟPʀᴏᴍᴘᴛ: Reducing Contextual Overhead in Large Language Models via Token Attribution
+This repository contains the code and data of the paper titled **"FʀᴜɢᴀʟPʀᴏᴍᴘᴛ: Reducing Contextual Overhead in Large Language Models via Token Attribution."**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16439-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.16439)
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4L_7vaoAAAAJ&citation_for_view=4L_7vaoAAAAJ:WF5omc3nYNoC)
