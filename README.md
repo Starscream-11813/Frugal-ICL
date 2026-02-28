@@ -84,11 +84,11 @@ Create a file named `config.json` inside an `api/` directory at the root of the 
 ## Reproducing the Results
 To reproduce the findings presented in the paper, follow these steps in order:
 
-*Generate Attribution Scores & LLM Predictions:* Open and run `frugal_ICL_clean.ipynb`. This will download the datasets, compute the DecompX/GlobEnc attribution scores for the input texts, generate the FrugalPrompts, and fetch predictions from the configured LLM APIs. (Outputs are saved in the `scores/` and `responses/` directories).
+**Generate Attribution Scores & LLM Predictions:** Open and run `frugal_ICL_clean.ipynb`. This will download the datasets, compute the DecompX/GlobEnc attribution scores for the input texts, generate the FrugalPrompts, and fetch predictions from the configured LLM APIs. (Outputs are saved in the `scores/` and `responses/` directories).
 
-*Analyze Token Reduction:* Open and run `frugal_token_counts.ipynb` to process the generated FrugalPrompts and reproduce the context length reduction statistics.
+**Analyze Token Reduction:** Open and run `frugal_token_counts.ipynb` to process the generated FrugalPrompts and reproduce the context length reduction statistics.
 
-*Evaluate Performance:* Open and run `frugal_results.ipynb`. This notebook will ingest the JSON files from the `responses/` directory, compute the reports, and reproduce the exact performance tables shown in the paper.
+**Evaluate Performance:** Open and run `frugal_results.ipynb`. This notebook will ingest the JSON files from the `responses/` directory, compute the reports, and reproduce the exact performance tables shown in the paper.
 
 ## Citation
 If you find this work useful, please cite our paper:
