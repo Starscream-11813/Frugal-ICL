@@ -1,8 +1,8 @@
 # FʀᴜɢᴀʟPʀᴏᴍᴘᴛ: Reducing Contextual Overhead in Large Language Models via Token Attribution
 
-[![project](https://img.shields.io/badge/Project%20Page-4285F4?style=flat&logo=homeassistant&logoColor=white&color=gray&labelColor=green)](https://frugalprompt.github.io)
+[![project](https://img.shields.io/badge/Project%20Page-4285F4?style=flat&logo=homeassistant&logoColor=white&color=006A4E&labelColor=gray)](https://frugalprompt.github.io)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.16439-b31b1b.svg?logo=arxiv&labelColor=FFFFFF&logoColor=b31b1b)](https://arxiv.org/abs/2510.16439)
-[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4L_7vaoAAAAJ&citation_for_view=4L_7vaoAAAAJ:WF5omc3nYNoC)
+[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-FFFFFF?style=flat&logo=Google+Scholar&logoColor=white&color=white&labelColor=4285F4)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4L_7vaoAAAAJ&citation_for_view=4L_7vaoAAAAJ:WF5omc3nYNoC)
 [![code](https://img.shields.io/badge/GitHub-Starscream--11813/Frugal--ICL-blue?logo=GitHub&labelColor=black)](https://github.com/ishmamt/VQA-Visual-Robustness-Benchmark/)
 [![license](https://img.shields.io/badge/License-MIT-purple.svg)](https://github.com/Starscream-11813/Frugal-ICL/blob/main/LICENSE)
 
