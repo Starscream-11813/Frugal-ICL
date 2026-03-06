@@ -1,14 +1,10 @@
 # FʀᴜɢᴀʟPʀᴏᴍᴘᴛ: Reducing Contextual Overhead in Large Language Models via Token Attribution
-This repository contains the code and data of the paper titled **"FʀᴜɢᴀʟPʀᴏᴍᴘᴛ: Reducing Contextual Overhead in Large Language Models via Token Attribution."**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.16439-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.16439)
+[![project](https://img.shields.io/badge/Project%20Page-4285F4?style=flat&logo=homeassistant&logoColor=white&color=gray&labelColor=green)](https://frugalprompt.github.io)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.16439-b31b1b.svg?logo=arxiv&labelColor=FFFFFF&logoColor=b31b1b)](https://arxiv.org/abs/2510.16439)
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4L_7vaoAAAAJ&citation_for_view=4L_7vaoAAAAJ:WF5omc3nYNoC)
-
-[![PDF](https://img.shields.io/badge/Paper%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=gray&labelColor=ec1c24)](https://www.arxiv.org/pdf/2510.16439)
-
-**License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-
-[![license](https://arxiv.org/icons/licenses/by-nc-sa-4.0.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![code](https://img.shields.io/badge/GitHub-Starscream--11813/Frugal--ICL-blue?logo=GitHub&labelColor=black)](https://github.com/ishmamt/VQA-Visual-Robustness-Benchmark/)
+[![license](https://img.shields.io/badge/License-MIT-purple.svg)](https://github.com/Starscream-11813/Frugal-ICL/blob/main/LICENSE)
 
 ## Overview
 
